@@ -30,7 +30,3 @@ def cli(filename, server):
             servers.add(s)
 
     print(servers)
-
-
-if __name__ == "__main__":
-    cli()
