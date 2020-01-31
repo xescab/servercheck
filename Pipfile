@@ -5,12 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
-doctest = "*"
-python-doctest = "*"
 
 [packages]
 click = "*"
-doctest = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
